@@ -10,8 +10,6 @@ The premise of this project is that I have been hired as a digital transformatio
 
 I am defining an Amazon Lex bot with a single intent that establishes a conversation about requirements to suggest an investment portfolio for retirement. I am building and testing the robo advisor, making sure that the bot works and accurately responds during the conversation with the user. I am enhancing the robo advisor with an Amazon Lambda function, creating an Amazon Lambda function that validates the user's input and returns the investment portfolio recommendation. This includes testing the Amazon Lambda function and integrating it with the bot.
 
-I have created a Jupyter notebook containing my final Lambda function.
-
 ---
 
 ## Technologies
@@ -48,7 +46,7 @@ Clone the Module_15_Challenge repository from GitHub:
 
 Review the lambda_function.py program.
 
-Review the two screen recordings that demo my robo advisor in action.
+Review the screen recordings that demo my robo advisor in action.
 
 ---
 
