@@ -46,9 +46,9 @@ Clone the Module_15_Challenge repository from GitHub:
 
 'git clone https://github.com/jpweldon/Module_15_Challenge.git'
 
-Run the lambda_function.py program.
+Review the lambda_function.py program.
 
-Review the two short videos that demo my robo advisor in action.
+Review the two screen recordings that demo my robo advisor in action.
 
 ---
 
