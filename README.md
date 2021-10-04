@@ -46,7 +46,7 @@ Clone the Module_15_Challenge repository from GitHub:
 
 'git clone https://github.com/jpweldon/Module_15_Challenge.git'
 
-Run the .ipynb program containing the Lanbda function.
+Run the lambda_function.py program.
 
 Review the two short videos that demo my robo advisor in action.
 
